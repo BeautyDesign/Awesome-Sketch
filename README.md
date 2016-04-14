@@ -6,7 +6,6 @@
   * [Sketch 3 from A to Z: Become an App Designer](https://www.udemy.com/learnsketch3)
   * [Sketch 3: learn to create mobile and web designs](https://www.udemy.com/learn-sketch-design)
   * [Mobile App Design from scratch with Sketch 3 : UX and UI](https://www.udemy.com/mobile-app-design-from-scratch)
-  * 
 
 ## Plugins
  * [Magic Mirror](https://github.com/jamztang/MagicMirror) - Create Perspective Transformed Image in Sketch. Just like Smart Objects for Photoshop.
